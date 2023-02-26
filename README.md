@@ -14,7 +14,7 @@ My name is Yu WANG.
 
 I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
 
-## Features:
+## ❌ Features:
 
 I'm fan of Hatsune Miku & doujin Music.
 
