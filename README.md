@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is WANG Yu 汪钰
+
 ## 🏫 My Schools:
 
 🇭🇰 The Chinese University of Hong Kong 2018-2023 (Undergraduate Student)
