@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is WANG Yu 汪钰
+I'm WANG Yu 汪钰
 
 ## 🏫 Schools:
 
