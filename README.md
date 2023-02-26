@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there👋
 
 My name is Yu WANG. 
 
