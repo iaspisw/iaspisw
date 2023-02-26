@@ -20,7 +20,7 @@ I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
 
 ## Features:
 
-I'm a fan of Hatsune Miku & doujin Music.
+I'm fan of Hatsune Miku & doujin Music.
 
 My favorite emoji: ぴえん 🥺
 
