@@ -10,7 +10,7 @@
 
 本科以上，博士未满。
 
-I may got two bachelor's degree. one from CUHK, one from UB.
+I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
 
 - 🌱 I’m currently learning statistics & computer science.
 - 📫 How to reach me: tel:+852 55667724
