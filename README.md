@@ -2,11 +2,11 @@
 
 My name is WANG Yu 汪钰
 
-## 🏫 My Schools:
+## 🏫 Schools:
 
-🇭🇰 The Chinese University of Hong Kong 2018-2023 (Undergraduate Student)
+🇭🇰 The Chinese University of Hong Kong 2018-2023 (Undergraduate Student) Department of Statistics
 
-🇨🇳 Shanghai Jiao Tong University 2021 (Exchange Student)
+🇨🇳 Shanghai Jiao Tong University 2021 (Exchange Student) Zhiyuan College
 
 🇺🇸 University at Buffalo, the State University of New York 2023- (Transfer Student) 
 
