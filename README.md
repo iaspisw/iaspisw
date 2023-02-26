@@ -14,10 +14,6 @@ My name is Yu WANG.
 
 I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
 
-- 🌱 I’m currently learning statistics & computer science.
-- 📫 How to reach me: iaspisw@outlook.com
-- ☎️ +852 55667724 +86 13434416207 Wechat: sayoko_yu
-
 ## Features:
 
 I'm fan of Hatsune Miku & doujin Music.
@@ -25,4 +21,11 @@ I'm fan of Hatsune Miku & doujin Music.
 My favorite emoji: ぴえん 🥺
 
 😈🖤 地雷系女子。
+
 🐱🚬 うつ病 入院 体験談。
+
+## Others:
+
+- 🌱 I’m currently learning statistics & computer science.
+- 📫 How to reach me: iaspisw@outlook.com
+- ☎️ +852 55667724 +86 13434416207 Wechat: sayoko_yu
