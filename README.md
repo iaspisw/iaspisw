@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm WANG Yu 汪钰
+My name is Yu WANG. 
 
 ## 🏫 Schools:
 
