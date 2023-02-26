@@ -6,7 +6,7 @@
 
 🇨🇳 Exchange to Shanghai Jiao Tong University, Zhiyuan College 2021
 
-After graduating from Hong Kong, I decide to move to New York State to finish a second bachelor degree @ 🇺🇸 University at Buffalo, the State University of New York as a transfer student.
+After graduating from Hong Kong, I decide to move to 🇺🇸 University at Buffalo, the State University of New York as a transfer student to start my second bachelor degree.
 
 - 🌱 I’m currently learning statistics & computer science.
 - 📫 How to reach me: tel:+852 55667724
