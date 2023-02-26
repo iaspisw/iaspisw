@@ -13,4 +13,5 @@
 I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
 
 - 🌱 I’m currently learning statistics & computer science.
-- 📫 How to reach me: tel:+852 55667724
+- 📫 How to reach me: iaspisw@outlook.com
+- ☎️ +852 55667724 
