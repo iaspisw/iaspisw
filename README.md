@@ -17,3 +17,9 @@ I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
 - 🌱 I’m currently learning statistics & computer science.
 - 📫 How to reach me: iaspisw@outlook.com
 - ☎️ +852 55667724 +86 13434416207 Wechat: sayoko_yu
+
+## Features:
+
+I'm a fan of Hatsune Miku & doujin Music.
+
+My favorite emoji: ぴえん 🥺
