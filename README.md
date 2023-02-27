@@ -10,10 +10,6 @@ My name is Yu WANG.
 
 🇺🇸 University at Buffalo, the State University of New York 2023- (Transfer Student) 
 
-本科以上，博士未满。
-
-I may got two bachelor's degrees. One is from CUHK, the other one is from UB.
-
 ## ❌ Features:
 
 I'm fan of Hatsune Miku & doujin Music.
