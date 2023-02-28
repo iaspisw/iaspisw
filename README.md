@@ -18,8 +18,6 @@ My favorite emoji: ぴえん 🥺
 
 😈🖤 地雷系女子。
 
-🐱🚬 うつ病 入院 体験談。
-
 ## Others:
 
 - 🌱 I’m currently learning statistics & computer science.
