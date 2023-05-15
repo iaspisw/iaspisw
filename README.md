@@ -6,8 +6,6 @@ My name is Yu WANG.
 
 🇭🇰 The Chinese University of Hong Kong 2018-2023 (Undergraduate Student) Department of Statistics
 
-🇨🇳 Shanghai Jiao Tong University 2021 (Exchange Student) Zhiyuan College
-
 🇺🇸 University at Buffalo, the State University of New York 2023- (Transfer Student) 
 
 ## ❌ Features:
@@ -16,7 +14,7 @@ I'm fan of Hatsune Miku & doujin Music.
 
 My favorite emoji: ぴえん 🥺
 
-😈🖤 地雷系女子。
+😈🖤
 
 ## Others:
 
