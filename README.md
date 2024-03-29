@@ -4,7 +4,7 @@ My name is Yu WANG.
 
 ## 🏫 Schools:
 
-🇭🇰 The Chinese University of Hong Kong 2018-2023 (Undergraduate Student) Department of Statistics
+🇭🇰 The Chinese University of Hong Kong (Undergraduate Student) Department of Statistics
 
 🇺🇸 University at Buffalo, the State University of New York 2023- (Transfer Student) 
 
